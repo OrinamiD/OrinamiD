@@ -1,4 +1,4 @@
-[![MasterHead](https://https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-his-485667631   )]
+[![MasterHead](https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-260nw-485667631.jpg)]
 <h1 align="center">Hi there 👋, I'm Cornelius Orinami Dongo</h1>
 <h3 align="center">A passionate Backend Engineer.</h3>
 
