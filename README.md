@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcartoon-software-engineer&psig=AOvVaw1daNJyVx6R-7LhT3cb887I&ust=1747528617195000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPix3MuiqY0DFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-his-485667631   )](https://rishavchanda.io)
 <h1 align="center">Hi there 👋, I'm Cornelius Orinami Dongo</h1>
 <h3 align="center">A passionate Backend Engineer.</h3>
 
