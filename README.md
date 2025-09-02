@@ -1,17 +1,17 @@
 
 <h1 align="center" backgound-colour = "black">Hi there 👋, I'm Cornelius Orinami Dongo</h1>
-<h3 align="center">A Software Engineer Who Turns Code Into Innovation.</h3>
+<h3 align="center">A Sandware Engineer Who Turns Code Into Innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orinamid&label=Profile%20views&color=0e75b6&style=flat" alt="orinamid" /> </p>
 
-Cornelius Dongo (www.linkedin.com/in/cornelius-dongo) is a passionate Software Engineer with experience in setting up robust servers and designing scalable RESTful APIs. He enjoys building efficient back-end systems using Node.js and Express, and is committed to clean code, problem-solving, and performance optimization.
+Cornelius Dongo (www.linkedin.com/in/cornelius-dongo) is a passionate Software Engineer with experience in setting up robust servers and designing scalable RESTful APIs. He enjoys building efficient back-end systems using Node.js, Typescript and Express, and is committed to clean code, problem-solving, and performance optimization.
 He thrives in collaborative environments and is always open to contributing to meaningful projects and learning new technologies. Whether it's crafting API endpoints or managing server-side logic, Cornelius brings both technical skill and curiosity to every development challenge.
 
-- 🔭 I’m currently working on [Fintech Digital Wallet System (PayFlow)](https://github.com/OrinamiD/Fintech-Digital-Wallet-System-PayFlow-.git)
+- 🔭 I recently worked on Fintechntech Digital Wallet System (PayFlow)](https://github.com/OrinamiD/Fintech-Digital-Wallet-System-PayFlow-.git)
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 🌱 I’m currently learning **React and Tailwind CSS **
 
-- 👯 I’m looking to collaborate on **a backend-focused project built with Node.js and Express.**
+- 👯 I’m looking to collaborate on **a backend-focused project built with Node.js, Typescript and Express.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OrinamiD](https://github.com/OrinamiD)
 
