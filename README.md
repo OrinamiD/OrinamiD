@@ -1,5 +1,5 @@
-Fintechntech="center" backgound-colour = "black">Hi there 👋, I'm Cornelius Orinami Dongo</h1>
-<h3 align="center">A Sandware Engineer Who Turns Code Into Innovation.</h3>
+Passionate Software Engineer="center" backgound-colour = "black">Hi there 👋, I'm Cornelius Orinami Dongo</h1>
+<h3 align="center">A Software Engineer Who Turns Code Into Innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orinamid&label=Profile%20views&color=0e75b6&style=flat" alt="orinamid" /> </p>
 
