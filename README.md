@@ -2,9 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Cornelius Orinami Dongo</h1>
 <h3 align="center">A passionate Backend Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orinamid&label=Profile%20views&color=0e75b6&style=flat" alt="orinamid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orinamid" alt="orinamid" /></a> </p>
 
 Cornelius Dongo (www.linkedin.com/in/cornelius-dongo) is a passionate Software Engineer with experience in setting up robust servers and designing scalable RESTful APIs. He enjoys building efficient back-end systems using Node.js and Express, and is committed to clean code, problem-solving, and performance optimization.
 He thrives in collaborative environments and is always open to contributing to meaningful projects and learning new technologies. Whether it's crafting API endpoints or managing server-side logic, Cornelius brings both technical skill and curiosity to every development challenge.
